@@ -27,7 +27,7 @@
     "@es-labs/esm": "^0.0.32",
     "@sentry/vue": "^8.48.0",
     "ant-design-vue": "^4.2.6",
-    "pinia": "^2.3.0",
+    "pinia": "^3.0.2",
     "vue": "^3.3.8",
     "vue-router": "^4.5.0"
   },
